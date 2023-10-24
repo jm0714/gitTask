@@ -1,0 +1,38 @@
+# Favorite Color Detector
+
+## Description
+
+The **Favorite Color Detector** is a simple Python script that prompts the user to enter their favorite color and then displays the input on the screen. This basic program demonstrates how to receive user input and print it to the console.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Installation
+
+To run the **Favorite Color Detector**, follow these steps:
+
+1. Clone the repository to your local machine or download the Python script.
+
+2. Ensure you have Python installed on your computer. If not, you can download and install it from the official [Python website](https://www.python.org/downloads/).
+
+3. Open your preferred code editor or integrated development environment (IDE) to run Python scripts.
+
+## Usage
+
+1. Open the Python script `helloWorld.py` in your code editor or IDE.
+
+2. Run the script.
+
+3. The program will prompt you to enter your favorite color.
+
+4. Enter your favorite color and press "Enter."
+
+5. The script will display your favorite color on the screen.
+
+That's it! You've successfully run the **Favorite Color Detector** and displayed your favorite color.
+
+---
+
+*Feel free to explore the simple Python script and learn how it receives and displays user input. This project is intended for educational purposes and as a demonstration of basic Python functionality.*
